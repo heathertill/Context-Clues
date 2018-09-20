@@ -3,12 +3,12 @@ body {
     background-color: #36384c;
 }
 h1 {
-    color: #E9DCCD
+    color: #E9DCCD;
+    font-family: 'Kaushan Script', cursive;
 }
 
 h3 {
-    background-color: #BCC6CC;
-    color: #8C001A
+   
 }
 
 #header {
@@ -18,10 +18,14 @@ h3 {
 
 .h3Accs {
     border: solid #E9DCCD 2px;
-    padding: 5px;
+    padding: 7px 10px 3px 30px;
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 15px;
     margin-bottom: 10px;
+    background-color: #BCC6CC;
+    color: #8C001A;
+    font-family: 'Special Elite', cursive;
+    padding-top: 15px;
 }
 
