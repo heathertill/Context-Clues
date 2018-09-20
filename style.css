@@ -1,11 +1,27 @@
+
+body {
+    background-color: #36384c;
+}
+h1 {
+    color: #E9DCCD
+}
+
+h3 {
+    background-color: #BCC6CC;
+    color: #8C001A
+}
+
 #header {
     text-align: center;
     padding: 20px;
 }
 
 .h3Accs {
-    border: solid black 2px;
+    border: solid #E9DCCD 2px;
     padding: 5px;
-    margin-left: 20px;
-    margin-right: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 15px;
+    margin-bottom: 10px;
 }
+
